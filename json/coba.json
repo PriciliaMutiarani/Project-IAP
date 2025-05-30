@@ -1,0 +1,30 @@
+[
+ {
+    "nama": "Pricilia",
+    "umur": 20,
+    "nrp": "2217020138",
+    "lulus": false,
+    "hobby": [
+        "Memasak",
+        "Menulis"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Muhammad Teguh Brilliant",
+        "pembimbing2" : "Erik Doank"
+    }
+ },
+  {
+    "nama": "icil",
+    "umur": 20,
+    "nrp": "2217020100",
+    "lulus": false,
+    "hobby": [
+        "Menyanyi",
+        "Ngopi"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Doddy Ferdiansyah",
+        "pembimbing2" : "Erik Doank"
+    }
+ }
+]
